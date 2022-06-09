@@ -12,3 +12,6 @@ cmd ["dotnet", "ShoeAppApi.dll"]
 expose 80
 
 env ASPNETCORE_URLS-https//+:5000
+
+
+#show comment
