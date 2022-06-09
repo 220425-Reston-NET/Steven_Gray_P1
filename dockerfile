@@ -2,7 +2,8 @@
 from mcr.microsoft.com/dotnet/aspnet:6.0 as runtime
 
 workdir /app
-copy --from=build /app/publish ./
+
+copy /publish ./
 
 #CMD docker instructions tells the docker engine how/where to run this application
 cmd ["dotnet", "ShoeAppApi.dll"]
