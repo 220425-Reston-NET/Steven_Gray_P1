@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoeAppDL", "ShoeAppDL\ShoeAppDL.csproj", "{D422E072-8AA9-4317-B3D9-101912FB1B55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoeAppModel", "ShoeAppModel\ShoeAppModel.csproj", "{86CD536A-1921-41BC-AAC2-24CF1E2CCE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoeAppBL", "ShoeAppBL\ShoeAppBL.csproj", "{671286CD-30D6-494B-B8B1-91BACEF0528A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoeAppApi", "ShoeAppApi\ShoeAppApi.csproj", "{52473979-023D-4235-954E-46A218C87624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D422E072-8AA9-4317-B3D9-101912FB1B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D422E072-8AA9-4317-B3D9-101912FB1B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D422E072-8AA9-4317-B3D9-101912FB1B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D422E072-8AA9-4317-B3D9-101912FB1B55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86CD536A-1921-41BC-AAC2-24CF1E2CCE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CD536A-1921-41BC-AAC2-24CF1E2CCE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CD536A-1921-41BC-AAC2-24CF1E2CCE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CD536A-1921-41BC-AAC2-24CF1E2CCE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04C7F0E-295D-46FD-88DB-FC4453244763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04C7F0E-295D-46FD-88DB-FC4453244763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04C7F0E-295D-46FD-88DB-FC4453244763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04C7F0E-295D-46FD-88DB-FC4453244763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671286CD-30D6-494B-B8B1-91BACEF0528A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671286CD-30D6-494B-B8B1-91BACEF0528A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671286CD-30D6-494B-B8B1-91BACEF0528A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671286CD-30D6-494B-B8B1-91BACEF0528A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52473979-023D-4235-954E-46A218C87624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52473979-023D-4235-954E-46A218C87624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52473979-023D-4235-954E-46A218C87624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52473979-023D-4235-954E-46A218C87624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

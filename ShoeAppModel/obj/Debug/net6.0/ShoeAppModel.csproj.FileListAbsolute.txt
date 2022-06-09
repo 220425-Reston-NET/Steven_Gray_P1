@@ -1,0 +1,12 @@
+C:\Users\Steve\Documents\ShoeApp\ShoeAppModel\bin\Debug\net6.0\ShoeAppModel.deps.json
+C:\Users\Steve\Documents\ShoeApp\ShoeAppModel\bin\Debug\net6.0\ShoeAppModel.dll
+C:\Users\Steve\Documents\ShoeApp\ShoeAppModel\bin\Debug\net6.0\ShoeAppModel.pdb
+C:\Users\Steve\Documents\ShoeApp\ShoeAppModel\obj\Debug\net6.0\ShoeAppModel.csproj.AssemblyReference.cache
+C:\Users\Steve\Documents\ShoeApp\ShoeAppModel\obj\Debug\net6.0\ShoeAppModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Documents\ShoeApp\ShoeAppModel\obj\Debug\net6.0\ShoeAppModel.AssemblyInfoInputs.cache
+C:\Users\Steve\Documents\ShoeApp\ShoeAppModel\obj\Debug\net6.0\ShoeAppModel.AssemblyInfo.cs
+C:\Users\Steve\Documents\ShoeApp\ShoeAppModel\obj\Debug\net6.0\ShoeAppModel.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Documents\ShoeApp\ShoeAppModel\obj\Debug\net6.0\ShoeAppModel.dll
+C:\Users\Steve\Documents\ShoeApp\ShoeAppModel\obj\Debug\net6.0\refint\ShoeAppModel.dll
+C:\Users\Steve\Documents\ShoeApp\ShoeAppModel\obj\Debug\net6.0\ShoeAppModel.pdb
+C:\Users\Steve\Documents\ShoeApp\ShoeAppModel\obj\Debug\net6.0\ref\ShoeAppModel.dll

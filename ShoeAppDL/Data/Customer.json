@@ -1,0 +1,18 @@
+[
+  {
+    "CustomerID": 56,
+    "Email": "Gray@gmail.com",
+    "Name": "Steven G",
+    "Address": "3435 N C St",
+    "Phonenumber": "3454323456",
+    "Inventories": []
+  },
+  {
+    "CustomerID": 34,
+    "Email": "Jade@gmail.com",
+    "Name": "jade M",
+    "Address": "4546 k st",
+    "Phonenumber": "2345678987",
+    "Inventories": []
+  }
+]
