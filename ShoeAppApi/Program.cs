@@ -17,7 +17,7 @@ builder.Services.AddScoped<IRepository<Store>, SQLStoreRepository>(repo => new S
 builder.Services.AddScoped<IStoreBL, StoreBL>();
 builder.Services.AddScoped<IRepository<CustomerInventoryJoin>, SQLCustInvoJoinRepo>(repo => new SQLCustInvoJoinRepo(builder.Configuration.GetConnectionString("Steven Gray")));
 builder.Services.AddScoped<ICustInvoJoinBL, CustInvoJoinBL>();
-
+//  builder.Services.AddScoped<IRepository<Customer>>(repo => new (Environment.GetEnvironmentVariable("Connection_String")));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
