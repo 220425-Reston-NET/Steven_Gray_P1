@@ -2,13 +2,16 @@
 from mcr.microsoft.com/dotnet/aspnet:6.0 as runtime
 
 workdir /app
+#Remove the copy instruction here
 
+#Copy the publish folder into the image
 copy /publish ./
 
-#CMD docker instructions tells the docker engine how/where to run this application
+#Change from CMD to entrypoint
 entrypoint ["dotnet", "ShoeAppApi.dll"]
 
-#Expose to port 80
+#Change port to 5000
 expose 5000
 
-env ASPNETCORE_URLS-https//+:5000
+#Add new environment to change ASP.NET app to listen to 5000 port
+env ASPNETCORE_URLS=http://+:5000
