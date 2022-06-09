@@ -6,12 +6,9 @@ workdir /app
 copy /publish ./
 
 #CMD docker instructions tells the docker engine how/where to run this application
-cmd ["dotnet", "ShoeAppApi.dll"]
+entrypoint ["dotnet", "ShoeAppApi.dll"]
 
 #Expose to port 80
-expose 80
+expose 5000
 
 env ASPNETCORE_URLS-https//+:5000
-
-
-#show comment
